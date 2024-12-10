@@ -1,3 +1,16 @@
+# Learning NextJS and React
+
+Ran `npx create-next-app@latest` to create the project.
+
+Also using `pnpm` instead of `npm`.
+
+Instead of `npm run dev`, its `pnpm dev`.
+
+Instead of `npm i`, its `pnpm i`.
+
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
